@@ -19,4 +19,58 @@ Hi, I'm <a href="https://github.com/YOUR_USERNAME">Abdelmonem</a>
 ### 👨‍💻 About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 I'm a **Computer Science Student 🎓** and a passionate **Flutter Developer 📱**.  
-I enjoy buil
+I enjoy building **mobile applications** and solving problems using programming.  
+I have experience with **mobile development, problem solving, and web basics**, and I’m always eager to learn new technologies 🚀.
+
+---
+
+## ⚡️ Quick Facts
+
+- 🎓 Computer Science Student
+- 📱 Flutter Developer (Android & iOS)
+- 🧠 Strong foundation in programming & problem solving
+- 🌱 Currently improving:
+  - Flutter & Dart
+  - Clean Architecture & State Management
+  - Firebase & REST APIs
+- 💬 Ask me about **Flutter, Dart, C++, Python, JavaScript**
+- 🎯 Goal: Become a professional Software / Mobile Developer
+
+---
+
+### 🖥️ My Dev Setup
+<img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6">
+<img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC">
+<img src="https://img.shields.io/badge/Android%20Studio-555555?style=flat-square&logo=android-studio&logoColor=3DDC84">
+<img src="https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=F05032">
+
+---
+
+### ⚙️ Programming Languages & Technologies
+
+#### 👨‍💻 Programming Languages
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"></code>
+
+#### 🌐 Web Technologies
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+
+#### 📱 Mobile & Tools
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
+
+---
+
+### 🚀 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" />
+</p>
+
+---
+
+⭐️ From **Abdelmonem**
